@@ -6,4 +6,3 @@
 - Enable file and network sharing between users
 - Create A-Records on the server 
 - Clear DNS cache
-- 
